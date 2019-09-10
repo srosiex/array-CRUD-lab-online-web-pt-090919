@@ -29,7 +29,7 @@ end
 
 
 def retrieve_element_from_index(array, index_number)
-array = ["element1", "element2", "element3", "element4"]
+array = ["am", "element1", "element2", "element3", "element4"]
 array[0]
 end
 
