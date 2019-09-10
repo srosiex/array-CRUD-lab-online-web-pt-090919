@@ -34,8 +34,8 @@ array[0]
 end
 
 def retrieve_first_element_from_array(array)
-array = ["wow", "element1", "element2", "element3", "element4"]
-array["0"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array.index("wow")
 end
 
 def retrieve_last_element_from_array(array)
