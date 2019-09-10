@@ -22,8 +22,7 @@ array.pop("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
-array = ["element1", "element2", "element3", "element4"]
-array.shift
+
 end
 
 def retrieve_element_from_index(array, index_number)
